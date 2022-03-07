@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(n,o,t){"use strict";t.r(o);var a=t("7a23"),e={class:"about"},s=Object(a["e"])("h1",null,"This is an about page of lost world",-1),c=[s];function u(n,o){return Object(a["o"])(),Object(a["d"])("div",e,c)}var b=t("6b0d"),r=t.n(b);const d={},i=r()(d,[["render",u]]);o["default"]=i}}]);
+//# sourceMappingURL=about.db3800b1.js.map
